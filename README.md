@@ -4,7 +4,7 @@
 Pour commencer à utiliser l'API SnipURL pour raccourcir les URL, vous devez comprendre les bases de l'authentification, des points de terminaison et des paramètres.
 
 **Serveur**
-- URL de base : `https://snipurl.en.gp/en/api/free?url=(url)`
+- URL de base : `https://snipurl.en.gp/en/api/free?url=`
 - Point de terminaison : `/free`
 - Méthode : `GET`
 - Objectif : Générer une nouvelle URL raccourcie
